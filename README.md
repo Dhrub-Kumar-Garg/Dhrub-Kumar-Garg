@@ -2,7 +2,7 @@
 <!--   GITHUB PROFILE README   -->
 <!-- ========================= -->
 
-<h1 align="center">Hello! I'm Dhrub Kumar Garg 👋</h1>
+<h1 align="center">Hello! I'm Dhrub Kumar Garg</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -52,9 +52,24 @@ Let's connect and innovate!
 # MOST USED LANGUAGES:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhrub-Kumar-Garg&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 
-# CONTRIBUTION SNAKE
-<p align="center"> <img src="https://raw.githubusercontent.com/Dhrub-Kumar-Garg/Dhrub-Kumar-Garg/output/github-contribution-grid-snake-dark.svg"/> </p>
-<h1 align="center"> Thanks For Visiting!  </h1> <p align="center"> <i>Feel free to explore my repositories and connect with me! </i> </p> <p align="center">  If you like my work, consider giving my repositories a star! </p> 
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Dhrub-Kumar-Garg/Dhrub-Kumar-Garg/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting!;See+You+Again!"
+    alt="Typing SVG"
+  />
+</p>
+
 
 
 
