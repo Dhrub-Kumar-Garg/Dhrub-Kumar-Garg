@@ -31,10 +31,8 @@ Let's connect and innovate!
 # CONNECT WITH ME HERE:
 <p align="left"> <a href="https://www.linkedin.com/in/dhrub-kumar-garg"> <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://leetcode.com/u/DhruvJod"> <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> </p> 
 
+
 # SKILLS:
-
-
-# 🛠️ SKILLS:
 
 | Category | Skills and Icons |
 |---|---|
@@ -48,11 +46,7 @@ Let's connect and innovate!
 
 
 
-
-# MOST USED LANGUAGES:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhrub-Kumar-Garg&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-
-# 🐍 CONTRIBUTION SNAKE
+# CONTRIBUTION SNAKE
 
 <p align="center">
   <img 
