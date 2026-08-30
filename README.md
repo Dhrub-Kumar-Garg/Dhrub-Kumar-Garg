@@ -46,8 +46,6 @@ Let's connect and innovate!
 
 
 
-# CONTRIBUTION SNAKE
-
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Dhrub-Kumar-Garg/Dhrub-Kumar-Garg/output/github-contribution-grid-snake-dark.svg"
